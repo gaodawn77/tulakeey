@@ -4,8 +4,10 @@ logo: img/206017257.png
 contact_entries:
   - heading: Location
     text: Guangming District, Shenzhen, Guangdong  Province, China
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Email
+    text: Ema_lan0731@outlook.com
+  - heading: Tel
+    text: +86 131 13664772
 ---
 We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
