@@ -1,7 +1,7 @@
 ---
 title: Vehicle Security
 type: products
-image: img/wireless-backup-camera-for-trucks.jpg
+image: img/web.jpg
 intro:
   heading: What we offer
   description: As a dedicated vehicle surveillance security solutions supplier, we
