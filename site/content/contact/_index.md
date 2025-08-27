@@ -5,9 +5,8 @@ contact_entries:
   - heading: Location
     text: Guangming District, Shenzhen, Guangdong  Province, China
   - heading: Email
-    text: |-
+    text: |
       Ema_lan0731@outlook.com
-      Tel: +86 131 13664772
 ---
 We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
