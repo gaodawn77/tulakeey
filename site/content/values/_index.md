@@ -1,45 +1,19 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: Values
+image: img/44.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: Enhanced Safety & Security
+    text: |
+      Support for multiple camera channels (Road, Driver, Cargo, Rear)
+    imageUrl: img/sd43d95c3df03421a94ea6b9d49e1181ab.webp
+  - heading: Vehicle Video Recorder
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      Gain insights into fuel consumption, idling times, and route optimization.
+      Improve driver behavior to significantly reduce operational expenses.
+    imageUrl: img/15950186482_2035505613.jpg
+  - heading: Wifi Solution for Car
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      Built-in AI for real-time detection of fatigue, distraction, smoking,
+      phone use
+    imageUrl: img/83bf5445-013f-4d81-a9da-eee442ce36d1.jpg
 ---
