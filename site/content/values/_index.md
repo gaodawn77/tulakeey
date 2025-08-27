@@ -1,6 +1,6 @@
 ---
 title: Values
-image: img/44.jpg
+image: img/a-wired-65ft-cable.jpg
 values:
   - heading: Enhanced Safety & Security
     text: |
