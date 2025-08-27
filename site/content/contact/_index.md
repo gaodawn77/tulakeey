@@ -3,7 +3,7 @@ title: Contact
 logo: img/206017257.png
 contact_entries:
   - heading: Location
-    text: Guangming District, Shenzhen, Guangdong  Province, China
+    text: Shenzhen, China
   - heading: Email
     text: |
       Ema_lan0731@outlook.com
