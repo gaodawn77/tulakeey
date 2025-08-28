@@ -10,7 +10,7 @@ values:
     text: >
       Gain insights into fuel consumption, idling times, and route optimization.
       Improve driver behavior to significantly reduce operational expenses.
-    imageUrl: img/15950186482_2035505613.jpg
+    imageUrl: img/car-radar-anti-collision-avoidance-and-lane-4-.jpg
   - heading: Wifi Solution for Car
     text: >
       Built-in AI for real-time detection of fatigue, distraction, smoking,
