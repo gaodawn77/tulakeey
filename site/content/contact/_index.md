@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: img/206017257.png
+logo: img/4e.png
 contact_entries:
   - heading: Location
     text: "Shenzhen, China                                                  "
