@@ -39,9 +39,8 @@ main:
 testimonials: []
 full_image: img/o1cn01sbnqqq1h8jdy4pf70_-2209523984232-0-cib.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Inquiry
+  description: "If you are looking for a vehicle security solution, please contact
+    us directly to discuss your options. "
   plans: []
 ---
