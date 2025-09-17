@@ -37,7 +37,7 @@ main:
     alt: AI Video Telematics Systems
     image: img/15950177993_2035505613.jpg
 testimonials: []
-full_image: img/o1cn01sbnqqq1h8jdy4pf70_-2209523984232-0-cib.jpg
+full_image: img/a-3.jpg
 pricing:
   heading: Inquiry
   description: "If you are looking for a vehicle security solution, please contact
