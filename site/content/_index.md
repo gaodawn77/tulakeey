@@ -1,20 +1,36 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Backup Camera System
+subtitle: Wired and Wireless Solution
+image: img/2a87fbc9-fd63-4930-bbec-efd8e65a1a91.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Why Tulakeey?
+  text: >
+    Tulakeey is the vehicle security surveillance system store for drivers who
+    needs to monitor around the vehicle suroundings and keep the road journey
+    safey.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+  heading: What we offer
+  text: >-
+    Tulakeey offers various backup camera system for TRUCK, RV, PICKUP TRUCK,
+    SEMI TRUCK, VAN, SUV, CAR, TRAILER, CAMPER, JEEP, TRACTOR, BUS, etc.
 
+
+    If you would like to know more about our products, please do not hesitate to get in touch.
+products:
+  - image: img/o1cn01ztlpbw1h8je2rya7b_-2209523984232-0-cib.jpg
+    text: >-
+      We sell Wired and Wireless monitoring solutions for a wide range of
+      vehicles.
+
+
+      We’re proud to offer a variety of car cameras, monitor and accessories with stable performance. Check our post or contact us directly for current availability.
+values:
+  heading: Ensuring Vehicle Safety
+  text: >-
+    Tulakeey Vehicle monitoring systems deliver core value in enhancing
+    management efficiency and ensuring safety through real-time positioning,
+    video recording, and data analysis capabilities.
+
+
+    Vehicle monitoring enables real-time detection of anomalies such as speeding and collisions, while AI analysis provides fatigue driving alerts and fault diagnostics. In traffic accidents, recorded footage serves as evidence for liability determination, reducing risks of disputes like staged collisions.
+---
