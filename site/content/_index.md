@@ -1,5 +1,5 @@
 ---
-title: Back Up Camera System
+title: Vehicle Back Up Camera System
 subtitle: Wired and Wireless Solution
 image: img/2a87fbc9-fd63-4930-bbec-efd8e65a1a91.jpg
 blurb:
