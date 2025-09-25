@@ -4,10 +4,9 @@ subtitle: Wired and Wireless Solution
 image: img/2a87fbc9-fd63-4930-bbec-efd8e65a1a91.jpg
 blurb:
   heading: Why Tulakeey?
-  text: >
-    Tulakeey is the vehicle security surveillance system store for drivers who
-    needs to monitor around the vehicle suroundings and keep the road journey
-    safey.
+  text: Tulakeey is a vehicle security surveillance system supplier for drivers
+    who need to monitor their vehicle's surroundings and ensure safe road
+    travel.
 intro:
   heading: What we offer
   text: >-
