@@ -1,6 +1,6 @@
 ---
 title: Values
-image: img/a-wired-65ft-cable.jpg
+image: img/about-jumbotron.jpg
 values:
   - heading: Enhanced Safety & Security
     text: |
