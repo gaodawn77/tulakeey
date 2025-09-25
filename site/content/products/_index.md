@@ -1,9 +1,9 @@
 ---
-title: Vehicle Security
+title: Car Security
 type: products
 image: img/web.jpg
 intro:
-  heading: What we offer
+  heading: TULAKEEY
   description: As a dedicated vehicle surveillance security solutions supplier, we
     offer customisation of product logos, camera aesthetics and compact display
     sizes, including 5inch, 7inch, 9inch and 10-inch models with tailored
