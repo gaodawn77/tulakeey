@@ -6,17 +6,18 @@ description: |-
   This is the first question you have to make a decision.
 image: 0b5138.jpeg
 ---
-This [week](/wdwdw) we’ll **take** a look at all the steps required to select...
+
+
+1> If you opt for a wired system, consider how long the extension cable will need to be. 
+
+First, decide where to mount the camera. Then measure the distance between the camera and the monitor.
+
+Standard backup camera kits typically include 10-, 15- or 20-metre cables. If you require additional length, you can purchase extra cables with matching connectors to complete the installation.
 
 
 
-## The five step:
+2> The biggest advantage of wireless backup camera system is undoubtedly the absence of wiring. Simply power the screen and cameras separately and pair the wireless signals successfully to get the system up and running.
 
-About:
+However, signal stability cannot be guaranteed 100% of the time. Lags, weak signals, or occasional signal loss may occur, particularly in certain environments or weather conditions.
 
-1.  
-2.  
-3.  
-4.  
-
-To be continued...
+The standout capability is the recording feature, which captures all road conditions and surroundings near the vehicle. It also provides excellent protection for drivers.
