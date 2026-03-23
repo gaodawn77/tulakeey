@@ -3,7 +3,7 @@ title: Select a  backup camera system
 date: 2025-08-28T01:10:33.202Z
 description: |
   Need a wired or wireless solution?
-image: pickup-truck-backup-camera-system.png
+image: pickup-truck-back-up.png
 ---
 
 
