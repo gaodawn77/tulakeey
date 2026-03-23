@@ -1,5 +1,5 @@
 ---
-title: A beginners’ guide to select a vehicle backup camera system
+title: Select a  backup camera system
 date: 2025-08-28T01:10:33.202Z
 description: |
   Need a wired or wireless solution?
