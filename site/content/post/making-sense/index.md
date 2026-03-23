@@ -2,7 +2,7 @@
 title: Do you need a wireless backup camera system?
 date: 2025-02-28T01:19:00.000Z
 description: 'The 7" wireless back up camera system with monitor '
-image: reverse-camera.jpg
+image: backup-camera-wireless.png
 ---
 **Advantages:**
 
