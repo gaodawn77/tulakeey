@@ -1,6 +1,6 @@
 ---
 title: Values
-image: img/about-jumbotron.jpg
+image: img/7inch-dual-cam-backup-camera-wireless.png
 values:
   - heading: Enhanced Safety & Security
     text: |
