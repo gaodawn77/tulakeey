@@ -1,7 +1,7 @@
 ---
 title: Back Up Camera System
 subtitle: TULAKEEY Amazon Store
-image: img/2a87fbc9-fd63-4930-bbec-efd8e65a1a91.jpg
+image: img/reverse-camera-for-truck.png
 blurb:
   heading: Why Tulakeey?
   text: Tulakeey is a vehicle security surveillance system supplier for drivers
