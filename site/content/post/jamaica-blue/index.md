@@ -6,7 +6,7 @@ description: >+
   consideration of vehicle space, functional requirements, and safety.
 
 
-image: 01da23a335e9d7f6c1f4f649c4bbc889.jpg
+image: rear-view-backup-camera.png
 ---
 **The following are specific recommendations:**
 
