@@ -6,7 +6,7 @@ contact_entries:
     text: |
       Ema_lan0731@outlook.com
   - heading: Tel
-    text: +86 131 1366 4772
+    text: +86 191 1641 6180
 ---
 We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
