@@ -3,7 +3,7 @@ title: Why a Wireless Backup Camera is a Game-Changer for Your RV
 date: 2026-03-23T05:20:15.996Z
 description: The Monitor supports four-channel cameras, and customers can choose
   a wireless backup camera kit with one to four cameras.
-image: rv-backup-system.png
+image: backup-camera-wireless.png
 ---
 
 
