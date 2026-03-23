@@ -1,7 +1,7 @@
 ---
 title: Wireless & Wired Backup Camera
 type: products
-image: img/web.jpg
+image: img/trailer-backup-camera_.png
 intro:
   heading: TULAKEEY
   description: As a dedicated vehicle surveillance security solutions supplier, we
@@ -10,16 +10,16 @@ intro:
     functionality. We also develop mobile applications for vehicle surveillance
     systems.
   blurbs:
-    - image: img/2a87fbc9-fd63-4930-bbec-efd8e65a1a91.jpg
+    - image: img/rv-backup-camera-wired.jpg
       text: |+
         5" Wired Backup Camera System
 
     - image: img/2.jpg
       text: 7" Wired Reverse Backup Camera for Truck, RV
-    - image: img/1.jpg
+    - image: img/wired-backup-cam.png
       text: |
         7" Wireless Back Up Camera System
-    - image: img/wireless-backup-camera.jpg
+    - image: img/7inch-dual-cam-backup-camera-wireless.png
       text: 24/7 HD recording, real-time AI alerts for risky behaviors (fatigue,
         distraction), and irrefutable evidence for incident reconstruction.
 main:
@@ -29,10 +29,10 @@ main:
     transmission to cloud management, catering to diverse needs and budgets.
   image1:
     alt: Demonstrate your understanding of different sector-specific challenges
-    image: img/4e8e132e-a5bf-4069-8bc2-7e35c4330cac.jpg
+    image: img/reverse-backup-camera-wired.jpg
   image2:
     alt: Provide valuable resources for evaluators and technical staff
-    image: img/77c6a7efce1b9d16b0ecb286254bfa888d54644e.jpeg
+    image: img/a-wired-65ft-cable.jpg
   image3:
     alt: AI Video Telematics Systems
     image: img/15950177993_2035505613.jpg
