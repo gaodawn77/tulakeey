@@ -11,17 +11,16 @@ intro:
     systems.
   blurbs:
     - image: img/rv-backup-camera-wired.jpg
-      text: |+
-        5" Wired Backup Camera System
-
+      text: |
+        7" Dual Back Up Camera Systems for Truck
     - image: img/2.jpg
-      text: 7" Wired Reverse Backup Camera for Truck, RV
+      text: 5" Wired Reverse Backup Camera for Car - Extension Cable (26ft long)
     - image: img/wired-backup-cam.png
       text: |
-        7" Wireless Back Up Camera System
+        7" HD 1080P Rear View Backup Camera System
     - image: img/7inch-dual-cam-backup-camera-wireless.png
-      text: 24/7 HD recording, real-time AI alerts for risky behaviors (fatigue,
-        distraction), and irrefutable evidence for incident reconstruction.
+      text: Wireless Backup Camera for Truck RV, 24/7 HD DVR Recording, Support 4
+        Channels Vehicle Cameras
 main:
   heading: Your Trusted Partner in Fleet Mobility Solutions
   description: >
@@ -32,12 +31,12 @@ main:
     image: img/reverse-backup-camera-wired.jpg
   image2:
     alt: Provide valuable resources for evaluators and technical staff
-    image: img/a-wired-65ft-cable.jpg
+    image: img/a-3.jpg
   image3:
     alt: AI Video Telematics Systems
     image: img/15950177993_2035505613.jpg
 testimonials: []
-full_image: img/a-3.jpg
+full_image: img/a-wired-65ft-cable.jpg
 pricing:
   heading: Inquiry
   description: "If you are looking for a vehicle security solution, please contact
