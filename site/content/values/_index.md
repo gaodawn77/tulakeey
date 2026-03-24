@@ -1,6 +1,6 @@
 ---
 title: Values
-image: img/7inch-dual-cam-backup-camera-wireless.png
+image: img/2a87fbc9-fd63-4930-bbec-efd8e65a1a91.jpg
 values:
   - heading: Enhanced Safety & Security
     text: |
@@ -10,7 +10,7 @@ values:
     text: >
       Gain insights into fuel consumption, idling times, and route optimization.
       Improve driver behavior to significantly reduce operational expenses.
-    imageUrl: img/car-radar-anti-collision-avoidance-and-lane-4-.jpg
+    imageUrl: img/backup-camera-system-with-dvr-recording.jpg
   - heading: Wifi Solution for Car
     text: >
       Built-in AI for real-time detection of fatigue, distraction, smoking,
