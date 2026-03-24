@@ -31,7 +31,7 @@ main:
     image: img/reverse-backup-camera-wired.jpg
   image2:
     alt: Provide valuable resources for evaluators and technical staff
-    image: img/a-3.jpg
+    image: img/reversing-camera-system.png
   image3:
     alt: AI Video Telematics Systems
     image: img/15950177993_2035505613.jpg
