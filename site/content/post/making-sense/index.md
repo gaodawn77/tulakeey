@@ -17,3 +17,5 @@ image: backup-camera-wireless.png
 * Distance limitations: Data can be transmitted up to 100 ft in an open area without interference.
 
 Please evaluate your specific requirements and select the in-vehicle monitoring solution that best suits your vehicle or fleet.
+
+https://www.amazon.com/dp/B0FN49FPNF?maas=maas_adg_FC78EF3CE339CD54DEDAFAA455AB6D49_afap\_abs&ref\_=aa_maas&tag=maas
