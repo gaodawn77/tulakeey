@@ -29,9 +29,3 @@ A lens with a 150° to 170° angle is ideal. It provides a panoramic view of the
 Why Start with TULAKEEY?
 
 At TULAKEEY, we specialize in making professional-grade safety accessible to everyone. Our systems are road-tested for durability and designed for easy DIY installation.
-
-Ready to upgrade your driving confidence?
-
-Explore our top-rated wireless backup camera systems and take advantage of exclusive deals on our Amazon US Store today!
-
-https://www.amazon.com/dp/B0DN1Z4NNS?maas=maas_adg_288BD69A464684B2C50099D16268515A_afap\_abs&ref\_=aa_maas&tag=maas
