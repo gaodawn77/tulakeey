@@ -16,7 +16,3 @@ Monitor Size: A 7-inch screen is the "sweet spot" for visibility without clutter
 Durability: Look for an IP69K waterproof rating to handle heavy rain and car washes.
 
 Easy Setup: Choose a "Plug & Play" system that connects to your running lights for power.
-
-Upgrade your road trip safety today. Our top-rated RV camera systems are now available with Prime shipping on Amazon!
-
-https://www.amazon.com/dp/B0FN49FPNF?maas=maas_adg_FC78EF3CE339CD54DEDAFAA455AB6D49_afap\_abs&ref\_=aa_maas&tag=maas
