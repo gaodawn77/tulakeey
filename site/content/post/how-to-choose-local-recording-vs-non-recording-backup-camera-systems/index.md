@@ -25,9 +25,3 @@ Choose Non-Recording if you are a casual traveler who only wants to simplify the
 Choose Recording (DVR) if you manage a fleet, drive professionally, or park in unsecured areas and want 24/7 peace of mind.
 
 At TULAKEEY, we offer both high-performance standard and DVR-integrated wireless systems designed for the toughest road conditions. Our recording models support multi-channel SD card storage, ensuring you never miss a moment of your journey.
-
-#### Ready to secure your ride?
-
-Visit our Amazon US Store to explore our full range of professional vehicle monitoring systems and find the perfect match for your rig today!
-
-https://www.amazon.com/dp/B0GCKZ7CK3?maas=maas_adg_ABEF6C226436A217923767C60D272823_afap\_abs&ref\_=aa_maas&tag=maas
