@@ -16,5 +16,3 @@ Standard backup camera kits typically include 10-, 15- or 20-metre cables. If yo
 However, signal stability cannot be guaranteed 100% of the time. Lags, weak signals, or occasional signal loss may occur, particularly in certain environments or weather conditions.
 
 The standout capability is the recording feature, which captures all road conditions and surroundings near the vehicle. It also provides excellent protection for drivers.
-
-https://www.amazon.com/dp/B0GCKZ7CK3?maas=maas_adg_ABEF6C226436A217923767C60D272823_afap\_abs&ref\_=aa_maas&tag=maas
